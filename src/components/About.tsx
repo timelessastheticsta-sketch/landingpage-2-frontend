@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import aboutImg from "@/assets/about-us.webp";
+import aboutImg from "@/assets/about-us.jpg";
 import { ChartTooltip } from "./ui/chart";
 
 const About = () => {

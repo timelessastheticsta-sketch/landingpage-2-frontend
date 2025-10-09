@@ -11,8 +11,8 @@ import Projects from '@/components/Projects';
 import WhyChoose from '@/components/WhyChoose';
 import CompanySection from '@/components/CompanySection'; // ✅ Import new component
 import Newplot from '@/components/newplot'; // ✅ Import new component
-
-
+import BeforeAfterResults from '@/components/BeforeAfterResults';
+import ProceduresCarousel from '@/components/ProceduresCarousel';
 const Index = () => {
   const [open, setOpen] = useState(false);
 
@@ -41,8 +41,10 @@ const Index = () => {
       <Header />
       <Hero />
       <About />
+      <ProceduresCarousel />
             <Projects />   {/* ✅ New Projects Section */}
             <Newplot/> 
+            <BeforeAfterResults />
                         <CompanySection /> {/* ✅ Added here */}
 
       <Services />
