@@ -10,19 +10,19 @@ const procedures = [
     title: "Permanent Makeup",
     description: "Enhance your natural beauty with long-lasting eyebrow, eyeliner, and lip color treatments for a flawless, polished look.",
     imgUrl: dermalFillersImg,
-    link: "#permanent-makeup",
+    link: "https://www.timelessaesthetics.in/",
   },
   {
     title: "Cosmetology",
     description: "Rejuvenate your skin and enhance its glow with advanced skin treatments, chemical peels, and tailored skincare solutions.",
     imgUrl: skinTreatmentImg,
-    link: "#cosmetology",
+    link: "https://www.timelessaesthetics.in/",
   },
   {
     title: "Facial Aesthetics",
     description: "Restore youthful radiance with facial contouring, anti-aging treatments, and skincare solutions for smooth, healthy skin.",
     imgUrl: acneTreatmentImg,
-    link: "#facial-aesthetics",
+    link: "https://www.timelessaesthetics.in/",
   },
 ];
 
