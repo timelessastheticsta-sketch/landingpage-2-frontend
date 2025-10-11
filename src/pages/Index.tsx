@@ -42,7 +42,7 @@ const Index = () => {
       <About />
       <ProceduresCarousel />
             <Projects />   {/* ✅ New Projects Section */}
-            <BeforeAfterResults />
+            {/* <BeforeAfterResults /> */}
                         <CompanySection /> {/* ✅ Added here */}
 
       <Services />
