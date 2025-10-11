@@ -48,7 +48,7 @@ const TermsConditions = () => {
             <section>
               <h2 className="text-2xl font-semibold mb-4">Appointments and Bookings</h2>
               <p>
-                When you Register Now for the Upcoming Batch with Timeless Aesthetic (online, via call, or in person):
+                When you Book Your Appointment with Timeless Aesthetic (online, via call, or in person):
               </p>
               <ul className="list-disc pl-6 space-y-1">
                 <li>Appointment confirmations will be sent via email or WhatsApp</li>
