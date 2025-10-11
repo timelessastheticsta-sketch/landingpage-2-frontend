@@ -32,20 +32,6 @@ const Projects = () => {
   return (
     <section className="py-0 mt-0  bg-gray-50" id="projects">
       
-<div className="w-full py-1 mb-12 text-center">
-  <h2 className="text-4xl md:text-5xl font-extrabold tracking-wide mb-4">
-    <span className="text-black">Find </span>
-    <span className="bg-gradient-to-r from-yellow-500 to-secondary bg-clip-text text-transparent">
-      Your Course
-    </span>
-  </h2>
-  <span className="block h-1 w-24 bg-gradient-to-r from-yellow-500 to-secondary mx-auto mt-2 rounded-full"></span>
-</div>
-
-
-
-
-
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Projects Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">

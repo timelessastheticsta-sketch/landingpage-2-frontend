@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Star, Users, Building, TrendingUp } from 'lucide-react';
 import heroBg from '@/assets/filler.jpg';
-import heroBgMobile from '@/assets/mobile.jpeg';
+import heroBgMobile from '@/assets/mobile.jpg';
 import LeadForm from '@/components/LeadForm';
 
 const Hero = () => {
