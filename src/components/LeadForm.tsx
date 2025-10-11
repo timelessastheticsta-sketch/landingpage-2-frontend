@@ -69,7 +69,7 @@ const LeadForm = ({
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           ...formData,
-          source: import.meta.env.VITE_SOURCE || "FAQ"
+          source: import.meta.env.VITE_SOURCE || "Procedures"
         }),
       });
 
